@@ -1,0 +1,11 @@
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csproj.GenerateResource.Cache
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+C:\Users\titur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Chess.csprojAssemblyReference.cache
